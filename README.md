@@ -4,7 +4,7 @@
 
 - I'm currently working on a personal project, an indie game! 🎮
 - I'm learning how to bring it to life with the game engine Godot 💾
-I'm also passionate about many types of art:
+### I'm also passionate about many types of art:
 - I love drawing ✏
 - I like making short animations 🏃
 - I enjoy 3D modelling 🏛
