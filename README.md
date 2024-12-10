@@ -1,4 +1,14 @@
-## Hi there 👋
+# About me
+
+### Hello everyone! I'm happy to share some of my interests and passions with you. This is a new adventure for me and I'm looking forward to learning new stuff along the way. See you around 😁
+
+- I'm currently working on a personal project, an indie game! 🎮
+- I'm learning how to bring it to life with the game engine Godot 💾
+- I'm also passionate about many types of art:
+- I love drawing ✏
+- I like making short animations 🏃
+- I enjoy 3D modelling 🏛
+- I sometimes play around with music 🎶
 
 <!--
 **MichaelDime/michaeldime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
